@@ -1,2 +1,2 @@
 # BACS495-AdvWebBits
-## This repository contains small projects for this class
+## This repository contains small course work projects for this class
