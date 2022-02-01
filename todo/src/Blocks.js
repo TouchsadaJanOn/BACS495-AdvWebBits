@@ -7,7 +7,7 @@ function Blocks(){
         <div className = 'box'> </div>
         <div className = 'box'> </div>
         <div className = 'box'> </div>
-        <div className = 'box'> </div>
+        <div id='block4' className = 'box'> </div>
 
         </div>
 }
