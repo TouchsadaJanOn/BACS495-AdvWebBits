@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 
 function TodoForm(props) {
+    // form set-up and create id associate to the task created
     const [input, setInput] = useState('');
 
     const focus = useRef(null)

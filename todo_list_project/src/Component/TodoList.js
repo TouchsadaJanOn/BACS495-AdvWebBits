@@ -3,6 +3,7 @@ import Todo from './Todo';
 import TodoForm from './TodoForm';
 
 function TodoList() {
+    // set to do tasks and implement the to do list, add the list, and complete the list
     const [todos, setTodos] = useState([]);
 
     const addTodo = todo => {
